@@ -4,7 +4,7 @@ I'm starting to get into data analytics with vizualizations. Here I will show my
 
 
 ### Projects 
-- My first excel dashboard based on Kaggle OnlineRetail.csv. Here I found that Most sales occur on Tuesday and Thursday with a slight drop on Wednesdays. I also did a histogram to reveal that most orders were in the $200-$450 range with a small spike in large orders over $1000 [Revenue Sales Dashboards](./Revenue_sales_dashboard.png/)
+- My first excel dashboard based on Kaggle OnlineRetail.csv. Here I found that Most sales occur on Tuesday and Thursday with a slight drop on Wednesdays. I also did a histogram to reveal that most orders were in the $200-$450 range with a small spike in large orders over $1000 -[Revenue Sales Dashboards](./Revenue_sales_dashboard.png/)
 
 
 
