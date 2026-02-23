@@ -8,7 +8,7 @@ I'm starting to get into data analytics with vizualizations. Here I will show my
 
 
 - Power BI dashboard based on https://www.kaggle.com/datasets/anuchhetry/electronic-health-record. I was interested in the discharge timestamps between discharging to home or other departments. I also found the positive and negative weight loss by unit enlightening.
--[EHR Addmisions Dashboard] (./EHR_Kaggle_Dashboard_Admissions.png/)
+[EHR Addmisions Dashboard] (./EHR_Kaggle_Dashboard_Admissions.png/)
 
 
 
