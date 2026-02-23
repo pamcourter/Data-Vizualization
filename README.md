@@ -9,6 +9,7 @@ I'm learning how to created informative dashboards in Excel and Power BI. Here I
 
 ### Power BI Kaggle EHR
 - [EHR Addmisions Dashboard](./EHR_Kaggle_Dashboard_Admissions.png)  Power BI dashboard based on https://www.kaggle.com/datasets/anuchhetry/electronic-health-record. I was interested in the discharge timestamps between discharging to home or other departments. I also found the positive and negative weight loss by unit enlightening.
+- 
  [![EHR_Kaggle_Dashboard_Admissions_Mini](./EHR_Kaggle_Dashboard_Admissions_Mini.png/)](./EHR_Kaggle_Dashboard_Admissions.png/)
 
 
