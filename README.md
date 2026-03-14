@@ -9,11 +9,11 @@ I'm learning how to created informative dashboards in Excel and Power BI. Here I
 
 ### Power BI Kaggle EHR
 - [EHR Addmisions Dashboard](./EHR_Kaggle_Dashboard_Admissions.png)  Power BI dashboard based on https://www.kaggle.com/datasets/anuchhetry/electronic-health-record. I was interested in the discharge timestamps between discharging to home or other departments. I also found the positive and negative weight loss by unit enlightening.    
- [![EHR_Kaggle_Dashboard_Admissions_Mini](/EHR_Kaggle_Dashboard_Admissions_Mini.png/)](EHR_Kaggle_Dashboard_Admissions.png/) 
+ [![EHR_Kaggle_Dashboard_Admissions_Mini](/EHR_Kaggle_Dashboard_Admissions_Mini.png/)](./EHR_Kaggle_Dashboard_Admissions.png) 
 
 ### Power BI Coffee Shop Sales- Maven Analytics
 - [Coffee Shop Dashboard](./CoffeeShop_visuals/CoffeeShopMenu.md)  Power BI dashboard based on Maven Analytics Coffee Shop data. I highlighted the sales after 8 pm as being far below the sales previously for two of the three locations. Since the majority of later sales are from Hell's Kitchen, I would recommend keeping that location open past 8 pm. For Astoria and Lower Manhatten, however, I would question whether the revenue generated is worth the cost of staying open. Since there are no sales at all for Astoria, I would assume they are already closed after 8 pm.     
- [![Coffee Shop Dark Dashboard](/CoffeeShop_visuals/CoffeeShop_dashboard_bgDark_mini.png)](/CoffeeShop_visuals/CoffeeShop_dashboard_bgDark.png) 
+ [![Coffee Shop Dark Dashboard](/CoffeeShop_visuals/CoffeeShop_dashboard_bgDark_mini.png)](./CoffeeShop_visuals/CoffeeShop_dashboard_bgDark.png) 
 
 
 
