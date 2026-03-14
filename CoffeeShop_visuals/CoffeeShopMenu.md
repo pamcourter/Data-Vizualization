@@ -1,4 +1,4 @@
-<h2>Coffee Shop visuals collection from Maven Analytics data</h2>h2>
+<h2>Coffee Shop visuals collection from Maven Analytics data</h2>
   
  [Coffee Shop All](./CoffeeShop_dashboard-all.png) <br />
  [Coffee Shop Astoria](./CoffeeShop_dashboard-astoria.png) <br />
